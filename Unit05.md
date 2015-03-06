@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH404: Psychotherapy"
+course_description: "A detailed introduction to the theories, styles, and methods of psychotherapy that you would need to know in a clinical situation."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Behavioral Therapy** <span id="5"></span> 
 *Behavioral therapy grew out of the behaviorist movement of the 1950s.
 According to the principles of behaviorism, all learning and behaviors

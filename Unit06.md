@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH404: Psychotherapy"
+course_description: "A detailed introduction to the theories, styles, and methods of psychotherapy that you would need to know in a clinical situation."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Cognitive-Behavioral Therapy** <span id="6"></span> 
 *Cognitive-behavioral therapy (CBT) is one of the more recent and
 frequently used therapy styles. It combines important findings from

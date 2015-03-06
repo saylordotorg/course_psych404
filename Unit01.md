@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH404: Psychotherapy"
+course_description: "A detailed introduction to the theories, styles, and methods of psychotherapy that you would need to know in a clinical situation."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: An Introduction to Psychotherapy** <span id="1"></span> 
 *What is psychotherapy, who needs it, and how is it conducted? Is
 psychotherapy really only for “crazy” people? This unit will address

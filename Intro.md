@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH404: Psychotherapy"
+course_description: "A detailed introduction to the theories, styles, and methods of psychotherapy that you would need to know in a clinical situation."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "PSYCH404: Psychotherapy"
 ---------------------------------------------
 

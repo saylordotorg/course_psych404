@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH404: Psychotherapy"
+course_description: "A detailed introduction to the theories, styles, and methods of psychotherapy that you would need to know in a clinical situation."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Client-Centered Therapy** <span id="4"></span> 
 *Client-Centered Therapy (also known as person-centered therapy)
 developed as a reaction to the “colder” psychoanalytic therapy models.

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH404: Psychotherapy"
+course_description: "A detailed introduction to the theories, styles, and methods of psychotherapy that you would need to know in a clinical situation."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Psychoanalytic Therapy** <span id="2"></span> 
 *How many films and TV shows have you seen that present the image of an
 individual lying on a couch, talking to his therapist about his dreams

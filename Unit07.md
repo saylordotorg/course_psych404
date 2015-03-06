@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH404: Psychotherapy"
+course_description: "A detailed introduction to the theories, styles, and methods of psychotherapy that you would need to know in a clinical situation."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Family Systems Therapy** <span id="7"></span> 
 *This final unit will focus on a less common but new and interesting
 approach known as family therapy. As the name implies, family therapy is

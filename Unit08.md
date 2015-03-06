@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH404: Psychotherapy"
+course_description: "A detailed introduction to the theories, styles, and methods of psychotherapy that you would need to know in a clinical situation."
+next: ../../../
+previous: ../Unit07
+---
 **Unit 8: Final Exam** <span id="8"></span> 
 -   **Final Exam: The Saylor Foundation’s PSYCH404 Final Exam**
     Link: The Saylor Foundation’s [PSYCH404 Final

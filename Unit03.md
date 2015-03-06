@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH404: Psychotherapy"
+course_description: "A detailed introduction to the theories, styles, and methods of psychotherapy that you would need to know in a clinical situation."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Existential Therapy** <span id="3"></span> 
 *Existential theory grew out of the existential philosophy movement.
 This model views mental disorders as problems relating to the basic
