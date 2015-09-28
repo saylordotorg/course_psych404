@@ -145,3 +145,4 @@ of 5 hours) on Wednesday/Thursday night; etc.
 - [Unit 6](https://legacy.saylor.org/psych404/Unit06/)
 - [Unit 7](https://legacy.saylor.org/psych404/Unit07/)
 - [Unit 8](https://legacy.saylor.org/psych404/Unit08/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/PSYCH/PSYCH404/PSYCH404-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/PSYCH/PSYCH404/PSYCH404-FinalExam-Answers.html)
