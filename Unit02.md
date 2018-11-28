@@ -98,7 +98,7 @@ as a whole is far more important.*
 
 -   **Reading: Boundless: “Examining Defense Mechanisms”**
     Link: Boundless: [“Examining Defense
-    Mechanisms”](http://www.saylor.org/site/wp-content/uploads/2013/05/Boundless.coms-Examining-Defense-Mechanisms.pdf)
+    Mechanisms”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/Boundless.coms-Examining-Defense-Mechanisms.pdf)
     (PDF)  
         
      Instructions: Read this article to understand Freud’s proposed
