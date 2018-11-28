@@ -116,7 +116,7 @@ id="4.1.2"></span> 
     and Humanistic
     Education”](http://www.sageofasheville.com/pubs.html) (PDF) and
     Wikipedia’s [“Humanistic
-    Psychology”](http://www.saylor.org/site/wp-content/uploads/2011/06/Humanistic-Psychology.pdf) (PDF)  
+    Psychology”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Humanistic-Psychology.pdf) (PDF)  
         
      Instructions: After clicking on the first link, choose the “click
     here” button near the top of the page to find a list of

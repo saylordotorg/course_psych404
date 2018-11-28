@@ -37,7 +37,7 @@ Upon successful completion of this unit, the student will be able to:
 **6.1 Cognitive-Behavioral Therapy** <span id="6.1"></span> 
 -   **Reading: Boundless: “Cognitive-Behavioral Therapy”**
     Link: Boundless: [“Cognitive-Behavioral
-    Therapy”](http://www.saylor.org/site/wp-content/uploads/2013/05/Boundless.coms-Cognitive-Behavioral-Therapy.pdf)
+    Therapy”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/Boundless.coms-Cognitive-Behavioral-Therapy.pdf)
     (PDF)  
         
      Instructions: Read this article to learn about cognitive-behavioral
